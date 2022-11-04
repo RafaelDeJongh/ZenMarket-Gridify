@@ -6,7 +6,7 @@
 //
 // ==UserScript==
 // @name          ZenMarket-Gridify
-// @version       1.0
+// @version       1.0.2
 // @author        Rafaël De Jongh
 // @namespace     https://www.rafaeldejongh.com
 // @require       https://code.jquery.com/jquery-3.1.1.min.js
