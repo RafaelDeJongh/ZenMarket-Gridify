@@ -6,12 +6,12 @@
 //
 // ==UserScript==
 // @name          ZenMarket-Gridify
-// @version       1.0.9
+// @version       1.1.0
 // @author        Rafaël De Jongh
 // @namespace     https://www.rafaeldejongh.com
 // @homepageURL   https://github.com/RafaelDeJongh/ZenMarket-Gridify
 // @downloadURL   https://github.com/RafaelDeJongh/ZenMarket-Gridify/raw/main/ZenMarket-Gridify.user.js
-// @updateURL     https://github.com/RafaelDeJongh/ZenMarket-Gridify/raw/main/ZenMarket-Gridify.user.js
+// @updateURL     https://github.com/RafaelDeJongh/ZenMarket-Gridify/raw/main/ZenMarket-Gridify.user.js?upd
 // @require       https://code.jquery.com/jquery-3.1.1.min.js
 // @match         *://zenmarket.jp/yahoo.aspx?*
 // @match         *://zenmarket.jp/*/yahoo.aspx?*
